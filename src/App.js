@@ -13,6 +13,7 @@ const App = () => {
       <Switch>
         <Route exact path="/">
             <Photos />
+    
           </Route>          
           <Route path="/cart">
             <Cart />
